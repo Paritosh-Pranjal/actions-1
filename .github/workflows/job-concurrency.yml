@@ -1,4 +1,4 @@
-name: Repo. secrets and variables
+name: Job Concurrency
 
 on:
    workflow_dispatch: 
