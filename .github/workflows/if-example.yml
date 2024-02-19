@@ -1,4 +1,4 @@
-name: Exploring Variables and Secrets using WorkFlow file
+name: If Expression Implemented
 
 on:
     push
